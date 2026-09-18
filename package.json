@@ -5,7 +5,7 @@
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
